@@ -1,2 +1,0 @@
-# LendenClub-devsecops
-LendenClub-devsecops
